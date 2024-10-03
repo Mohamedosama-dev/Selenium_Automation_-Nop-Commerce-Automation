@@ -1,0 +1,11 @@
+<suite name="Test Suite">
+    <test name="My Tests">
+        <classes>
+            <class name="com.nopcommerce.testCase.T01_Register"/>
+            <class name="com.nopcommerce.testCase.T02_Login"/>
+            <class name="com.nopcommerce.testCase.T03_Search"/>
+            <class name="com.nopcommerce.testCase.T04_Wishlist"/>
+            <class name="com.nopcommerce.testCase.T05_Cart"/>
+        </classes>
+    </test>
+</suite>
